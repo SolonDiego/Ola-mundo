@@ -31,6 +31,8 @@ Lista de Tarefas:
  - [ ] Finalizar reunião com cliente
  - [ ] Receber pagamento
 
+
+***
  [Acesse o meu GitHub](https://github.com/SolonDiego)
 
 ***
