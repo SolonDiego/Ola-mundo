@@ -56,4 +56,12 @@ num = int(input('Digite um valor:'))
 
 ```
 
+***
 
+Emojis:
+
+[Lista de Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+:star_struck:
+
+:neutral_face:
