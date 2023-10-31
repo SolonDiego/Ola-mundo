@@ -16,3 +16,11 @@ Lista numerada:
 
 1. Teste
 1. segundo teste
+    1. terceiro teste
+
+***
+Lista demarcada:
+
+* Teste
+* Teste
+    * teste
