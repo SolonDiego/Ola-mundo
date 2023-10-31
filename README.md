@@ -42,3 +42,16 @@ Tabela:
  1|Gustavo|8,5
  2|José|10,0
  3|Maria|9,0
+
+ ***
+
+ Não entendo o comando `document.getElementById()`
+
+ ***
+
+ Olha meu programa em Python:
+
+```
+num = int(input('Digite um valor:'))
+
+```
