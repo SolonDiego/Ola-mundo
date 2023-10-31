@@ -32,3 +32,11 @@ Lista de Tarefas:
  - [ ] Receber pagamento
 
  [Acesse o meu GitHub](https://github.com/SolonDiego)
+
+
+Tabela:
+ Num|Nome|Nota
+ ---|---|---
+ 1|Gustavo|8,5
+ 2|José|10,0
+ 3|Maria|9,0
