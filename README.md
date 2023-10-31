@@ -30,3 +30,5 @@ Lista de Tarefas:
  - [x] Criar página da loja
  - [ ] Finalizar reunião com cliente
  - [ ] Receber pagamento
+
+ [Acesse o meu GitHub](https://github.com/SolonDiego)
