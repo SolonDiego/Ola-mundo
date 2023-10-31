@@ -24,3 +24,9 @@ Lista demarcada:
 * Teste
 * Teste
     * teste
+
+Lista de Tarefas:
+ -[x] Criar página principal
+ -[x] Criar página da loja
+ -[] Finalizar reunião com cliente
+ -[] Receber pagamento
